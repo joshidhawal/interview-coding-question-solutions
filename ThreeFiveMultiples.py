@@ -13,7 +13,7 @@ Output:0
 
 """
 
-num=int(raw_input("Enter a number between 1 and 100\n"))
+num=int(input("Enter a number between 1 and 100\n"))
 
 if (num>100 or num<0):
 	print("enter a valid number")

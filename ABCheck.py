@@ -11,7 +11,7 @@ Input:"Laura sobs"
 Output:true
 """
 
-str=raw_input()
+str=input()
 str=str.replace(" ","")
 print (str)
 
